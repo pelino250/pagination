@@ -54,7 +54,6 @@ class Book(models.Model):
   python manage.py migrate
   ```
 
----
 
 ### **3. Populate the Model with AI-Generated Data**  
 **Option 1: Use ChatGPT**  
